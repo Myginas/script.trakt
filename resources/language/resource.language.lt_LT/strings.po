@@ -112,15 +112,15 @@ msgstr "Ką jūs galvojote?"
 
 msgctxt "#32027"
 msgid "Totally Ninja!"
-msgstr "Visiška nindzė!"
+msgstr "Puikus"
 
 msgctxt "#32028"
 msgid "Weak Sauce :("
-msgstr "Silpnas padažas :("
+msgstr "Išjungiau"
 
 msgctxt "#32029"
 msgid "Terrible"
-msgstr "Siaubingas"
+msgstr "Prasukau"
 
 msgctxt "#32030"
 msgid "Bad"
@@ -136,19 +136,19 @@ msgstr "Šiaip sau"
 
 msgctxt "#32033"
 msgid "Fair"
-msgstr "Neblogas"
+msgstr "Patenkinamas"
 
 msgctxt "#32034"
 msgid "Good"
-msgstr "Geras"
+msgstr "Vidutiniškas"
 
 msgctxt "#32035"
 msgid "Great"
-msgstr "Puikus"
+msgstr "Geras"
 
 msgctxt "#32036"
 msgid "Superb"
-msgstr "Nuostabus"
+msgstr "Labai geras"
 
 msgctxt "#32037"
 msgid "Unrate this movie"
